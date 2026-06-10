@@ -1,1 +1,1 @@
-das hier ist mein merge konflikt beispiel ordner. ich hoffe ich habe die einrichtung sowiet richtig gemacht. ich habe nämlich einfach einen ordner mit dem gleichen namen auf meinem lokalen pc erstellt und das repo geklont.
+Three Bananas
